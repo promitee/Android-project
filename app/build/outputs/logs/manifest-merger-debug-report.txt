@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.aswin:CustomArc:1.0.2] /Users/spondon/.gradle/caches/transforms-1/files-1.1/CustomArc-1.0.2.aar/07c4a362838b9a3fd926286013d9fc53/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/01b04739a8f606127975388a992a9b70/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a922a0879d0196caff026ce518cd96d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/spondon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/556b474cb44d372ad7364246aaf8582c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5a957b10f524e606fba8055d6ea594e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/de1a3007e3c1a68c9fa298e501c09ff0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6417e628da53cd51a18c91853bb58bfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31118aa77942428d2854342ffe510998/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7ff04799b9d8e5e222712ab6beedd0e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f749c1150bcfbd646b4c5c6114067059/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/2ff2502fcb21a9be47e299110b828cce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6aef793741489ea2ff3eeb9349caf366/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2c05e0fd6e00906460c7ec30ffbc8cee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/67a74e305f6c99e98a608d49d12c6c73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f2ed27a7a9c65c565bab9b5729cd8ee1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/665e1eeb937b84459f456a4fca632b81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51a8cbada196020f70961a34869ed07c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6a223d6cc1537635549285610f7d71e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/929756e5774bfefb90390c3ecd0c270b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c437ca6d95cf864989b253c4e1936eba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5e59e11f39090a75570513bd0adceb50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391803847836a2622be23d1371e6c20/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/66c6238934371290080f59b923668343/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d8cbfaa6ef525e1e5ec03b17e1504dbc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9ff94f8ba1bbc414896e62638fb1fe5e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/be7c59577b813492f13ea9869e15e82c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/86308afdd5c39e6d0895e2bca654f537/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/82cb0ac99908668eaee12427f8318690/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/836a3d72130ff070ad6944a028d8403c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a355d96c7c3db458a13946365ab700f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/650f010509a67cde9068c3d51aae2602/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8417728f50effba09ddeb8aae251a416/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2f8a6eaba0a5b94511525bd687f53bc9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc8a096f262cf9086c2e95c4918ebeff/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.Sensor
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:5:19-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:6:5-84
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:6:22-65
+application
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:8:5-37:19
+MERGED from [com.android.support:design:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/01b04739a8f606127975388a992a9b70/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/01b04739a8f606127975388a992a9b70/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/spondon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/556b474cb44d372ad7364246aaf8582c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/spondon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/556b474cb44d372ad7364246aaf8582c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391803847836a2622be23d1371e6c20/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391803847836a2622be23d1371e6c20/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d8cbfaa6ef525e1e5ec03b17e1504dbc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d8cbfaa6ef525e1e5ec03b17e1504dbc/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391803847836a2622be23d1371e6c20/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.promitee.fitnesstracker.dashboard
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:15:9-18:59
+	android:screenOrientation
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:17:13-49
+	android:theme
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:16:13-38
+activity#com.promitee.fitnesstracker.MainActivity
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.promitee.fitnesstracker.register
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:29:13-37
+activity#com.promitee.fitnesstracker.hweight
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:32:13-36
+activity#com.promitee.fitnesstracker.targetlist
+ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml:35:13-39
+uses-sdk
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+MERGED from [com.aswin:CustomArc:1.0.2] /Users/spondon/.gradle/caches/transforms-1/files-1.1/CustomArc-1.0.2.aar/07c4a362838b9a3fd926286013d9fc53/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aswin:CustomArc:1.0.2] /Users/spondon/.gradle/caches/transforms-1/files-1.1/CustomArc-1.0.2.aar/07c4a362838b9a3fd926286013d9fc53/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/01b04739a8f606127975388a992a9b70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/01b04739a8f606127975388a992a9b70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a922a0879d0196caff026ce518cd96d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a922a0879d0196caff026ce518cd96d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/spondon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/556b474cb44d372ad7364246aaf8582c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/spondon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/556b474cb44d372ad7364246aaf8582c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5a957b10f524e606fba8055d6ea594e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5a957b10f524e606fba8055d6ea594e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/de1a3007e3c1a68c9fa298e501c09ff0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/de1a3007e3c1a68c9fa298e501c09ff0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6417e628da53cd51a18c91853bb58bfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6417e628da53cd51a18c91853bb58bfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31118aa77942428d2854342ffe510998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31118aa77942428d2854342ffe510998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7ff04799b9d8e5e222712ab6beedd0e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7ff04799b9d8e5e222712ab6beedd0e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f749c1150bcfbd646b4c5c6114067059/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f749c1150bcfbd646b4c5c6114067059/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/2ff2502fcb21a9be47e299110b828cce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/2ff2502fcb21a9be47e299110b828cce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6aef793741489ea2ff3eeb9349caf366/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6aef793741489ea2ff3eeb9349caf366/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2c05e0fd6e00906460c7ec30ffbc8cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2c05e0fd6e00906460c7ec30ffbc8cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/67a74e305f6c99e98a608d49d12c6c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/67a74e305f6c99e98a608d49d12c6c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f2ed27a7a9c65c565bab9b5729cd8ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f2ed27a7a9c65c565bab9b5729cd8ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/665e1eeb937b84459f456a4fca632b81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/665e1eeb937b84459f456a4fca632b81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51a8cbada196020f70961a34869ed07c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51a8cbada196020f70961a34869ed07c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6a223d6cc1537635549285610f7d71e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6a223d6cc1537635549285610f7d71e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/929756e5774bfefb90390c3ecd0c270b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/929756e5774bfefb90390c3ecd0c270b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c437ca6d95cf864989b253c4e1936eba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c437ca6d95cf864989b253c4e1936eba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5e59e11f39090a75570513bd0adceb50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5e59e11f39090a75570513bd0adceb50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391803847836a2622be23d1371e6c20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391803847836a2622be23d1371e6c20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/66c6238934371290080f59b923668343/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/66c6238934371290080f59b923668343/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d8cbfaa6ef525e1e5ec03b17e1504dbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d8cbfaa6ef525e1e5ec03b17e1504dbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9ff94f8ba1bbc414896e62638fb1fe5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9ff94f8ba1bbc414896e62638fb1fe5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/be7c59577b813492f13ea9869e15e82c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/be7c59577b813492f13ea9869e15e82c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/86308afdd5c39e6d0895e2bca654f537/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/86308afdd5c39e6d0895e2bca654f537/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/82cb0ac99908668eaee12427f8318690/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/82cb0ac99908668eaee12427f8318690/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/836a3d72130ff070ad6944a028d8403c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/836a3d72130ff070ad6944a028d8403c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a355d96c7c3db458a13946365ab700f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/spondon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a355d96c7c3db458a13946365ab700f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/650f010509a67cde9068c3d51aae2602/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/650f010509a67cde9068c3d51aae2602/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8417728f50effba09ddeb8aae251a416/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8417728f50effba09ddeb8aae251a416/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2f8a6eaba0a5b94511525bd687f53bc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2f8a6eaba0a5b94511525bd687f53bc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc8a096f262cf9086c2e95c4918ebeff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/spondon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc8a096f262cf9086c2e95c4918ebeff/AndroidManifest.xml:20:5-44
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/src/main/AndroidManifest.xml

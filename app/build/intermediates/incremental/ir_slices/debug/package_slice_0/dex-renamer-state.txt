@@ -1,0 +1,4 @@
+#Sat Apr 13 05:29:47 BDT 2019
+base.0=/Users/spondon/Desktop/Promitee/75_/FitnessTracker/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
